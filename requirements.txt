@@ -1,0 +1,7 @@
+librosa
+soundfile
+numpy
+scipy
+matplotlib
+pyinstaller==6.14.2
+opencv-python
